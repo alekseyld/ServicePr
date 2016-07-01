@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ServicePr</string>
+    <string name="sync">Синхронизовать</string>
+    <string name="eName">name</string>
+    <string name="eNum">number</string>
+    <string name="eTime">time</string>
+</resources>
